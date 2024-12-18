@@ -61,7 +61,7 @@ You can find more projects [here](https://github.com/MHMIZAN09?tab=repositories)
 ---
 
 ## 🌐 **Contact Me**
-- 📧 **Email**: [mizanur@example.com](mailto:mizanur@example.com)
+- 📧 **Email**: [mhmizan550@gmail.com](mailto:mizanur@example.com)
 - 💼 **LinkedIn**: [Coming Soon!](#)
 - 🌍 **Portfolio**: [Coming Soon!]
 
