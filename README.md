@@ -1,31 +1,56 @@
-<h1 align="center">Hi 👋, I'm Md. Mizanur Rahman</h1>
-<h3 align="center">A passionate Computer Science & Engineering student learning Full Stack Development</h3>
-
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m currently learning **React.js, Next.js, Node.js, Express.js, and MongoDB**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/MHMIZAN09)
-- 📫 How to reach me: **mhmizan09@gmail.com**
-- ⚡ Fun fact: **I enjoy solving problems and building creative web applications**
+# Hi there 👋, I'm Md. Mizanur Rahman!
 
 ---
 
-### 🛠️ Languages and Tools:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+## 🚀 **About Me**
+- 🎓 I'm a Computer Science & Engineering (CSE) student.
+- 💻 I am passionate about **Full-Stack Web Development**.
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB**, and more!
+- ⚡ I love solving problems and building user-friendly applications.
 
 ---
 
-📊 **GitHub Stats:**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MHMIZAN09&show_icons=true&theme=dark)
+## 🛠 **Tech Stack**
+### **Languages**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### **Frameworks and Libraries**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
-### 🌟 My Projects:
-- **[Project Name 1](#):** Short description
-- **[Project Name 2](#):** Short description
-- **[Project Name 3](#):** Short description
+## 📚 **Projects**
+Here are a few projects I've worked on:
+- 🌼 **[Online Flower Shop](#)** - HTML, CSS, and JavaScript  
+- 🎮 **[Gamer Zone](#)** - React.js and Express.js  
+- 🚗 **[Car Doctor Server Side](#)** - Node.js and MongoDB  
+
+You can find more projects [here](https://github.com/MHMIZAN09?tab=repositories).
+
+---
+
+## 📊 **Stats**
+![Mizanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHMIZAN09&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHMIZAN09&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌐 **Contact Me**
+- 📧 **Email**: [mizanur@example.com](mailto:mizanur@example.com)
+- 💼 **LinkedIn**: [linkedin.com/in/mhmizanur](#)
+- 🌍 **Portfolio**: [Coming Soon!]
+
+---
+
+🚀 *Let’s connect and build something amazing together!*
